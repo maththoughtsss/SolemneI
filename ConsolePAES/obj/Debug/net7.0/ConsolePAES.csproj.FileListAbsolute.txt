@@ -1,0 +1,15 @@
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\SolMunozJonathan\ConsolePAES\bin\Debug\net7.0\ConsolePAES.exe
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\SolMunozJonathan\ConsolePAES\bin\Debug\net7.0\ConsolePAES.deps.json
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\SolMunozJonathan\ConsolePAES\bin\Debug\net7.0\ConsolePAES.runtimeconfig.json
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\SolMunozJonathan\ConsolePAES\bin\Debug\net7.0\ConsolePAES.dll
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\SolMunozJonathan\ConsolePAES\bin\Debug\net7.0\ConsolePAES.pdb
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\SolMunozJonathan\ConsolePAES\obj\Debug\net7.0\ConsolePAES.csproj.AssemblyReference.cache
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\SolMunozJonathan\ConsolePAES\obj\Debug\net7.0\ConsolePAES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\SolMunozJonathan\ConsolePAES\obj\Debug\net7.0\ConsolePAES.AssemblyInfoInputs.cache
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\SolMunozJonathan\ConsolePAES\obj\Debug\net7.0\ConsolePAES.AssemblyInfo.cs
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\SolMunozJonathan\ConsolePAES\obj\Debug\net7.0\ConsolePAES.csproj.CoreCompileInputs.cache
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\SolMunozJonathan\ConsolePAES\obj\Debug\net7.0\ConsolePAES.dll
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\SolMunozJonathan\ConsolePAES\obj\Debug\net7.0\refint\ConsolePAES.dll
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\SolMunozJonathan\ConsolePAES\obj\Debug\net7.0\ConsolePAES.pdb
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\SolMunozJonathan\ConsolePAES\obj\Debug\net7.0\ConsolePAES.genruntimeconfig.cache
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\SolMunozJonathan\ConsolePAES\obj\Debug\net7.0\ref\ConsolePAES.dll

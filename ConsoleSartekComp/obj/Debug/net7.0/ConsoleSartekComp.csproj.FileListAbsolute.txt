@@ -1,0 +1,15 @@
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\SolMunozJonathan\ConsoleSartekComp\bin\Debug\net7.0\ConsoleSartekComp.exe
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\SolMunozJonathan\ConsoleSartekComp\bin\Debug\net7.0\ConsoleSartekComp.deps.json
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\SolMunozJonathan\ConsoleSartekComp\bin\Debug\net7.0\ConsoleSartekComp.runtimeconfig.json
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\SolMunozJonathan\ConsoleSartekComp\bin\Debug\net7.0\ConsoleSartekComp.dll
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\SolMunozJonathan\ConsoleSartekComp\bin\Debug\net7.0\ConsoleSartekComp.pdb
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\SolMunozJonathan\ConsoleSartekComp\obj\Debug\net7.0\ConsoleSartekComp.csproj.AssemblyReference.cache
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\SolMunozJonathan\ConsoleSartekComp\obj\Debug\net7.0\ConsoleSartekComp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\SolMunozJonathan\ConsoleSartekComp\obj\Debug\net7.0\ConsoleSartekComp.AssemblyInfoInputs.cache
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\SolMunozJonathan\ConsoleSartekComp\obj\Debug\net7.0\ConsoleSartekComp.AssemblyInfo.cs
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\SolMunozJonathan\ConsoleSartekComp\obj\Debug\net7.0\ConsoleSartekComp.csproj.CoreCompileInputs.cache
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\SolMunozJonathan\ConsoleSartekComp\obj\Debug\net7.0\ConsoleSartekComp.dll
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\SolMunozJonathan\ConsoleSartekComp\obj\Debug\net7.0\refint\ConsoleSartekComp.dll
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\SolMunozJonathan\ConsoleSartekComp\obj\Debug\net7.0\ConsoleSartekComp.pdb
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\SolMunozJonathan\ConsoleSartekComp\obj\Debug\net7.0\ConsoleSartekComp.genruntimeconfig.cache
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\SolMunozJonathan\ConsoleSartekComp\obj\Debug\net7.0\ref\ConsoleSartekComp.dll
